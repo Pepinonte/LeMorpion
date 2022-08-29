@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LeMorpion</string>
+    <string name="next_player">Tour: %1$s</string>
+    <string name="winner">Gagant: %1$s</string>
+</resources>
